@@ -1,6 +1,9 @@
 ### 
 
-![Alt text for the GIF](./winniee.gif)
+<p align="center">
+  <img src="./winniee.gif" alt="Description of GIF"/>
+</p>
+
 Hi there 👋
 I'm a third-year CS student, eager to learn and grow in the world of programming . This GitHub profile is  where I share my projects.
 <!--
