@@ -4,6 +4,7 @@
   <img src="./winniee.gif" alt="Description of GIF"/>
 </p>
 
+### H2 
 Hi there 👋
 I'm a third-year CS student, eager to learn and grow in the world of programming . This GitHub profile is  where I share my projects.
 <br>
@@ -24,16 +25,12 @@ I'm a third-year CS student, eager to learn and grow in the world of programming
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <!-- HTML -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <!-- Assembly -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/assembly/assembly-original.svg" title="Assembly" alt="Assembly" width="40" height="40"/>&nbsp;
   <!-- VSCode -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <!-- IntelliJ -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
   <!-- GIMP -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="GIMP" alt="GIMP" width="40" height="40"/>&nbsp;
-  <!-- Eclipse -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
   <!-- Android Studio -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 </div>
