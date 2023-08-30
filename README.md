@@ -9,7 +9,7 @@ I'm a third-year CS student, eager to learn and grow in the world of programming
 </h2>
 <br>
 <br>
-### :hammer_and_wrench: Languages and Tools
+:hammer_and_wrench: Languages and Tools
 <div align="center">
   <!-- Python -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
