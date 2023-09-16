@@ -5,7 +5,7 @@
 </p>
 
 <h2>Hi there 👋
-I'm a third-year CS student, eager to learn and grow in the world of programming . This GitHub profile is  where I share my projects.
+I'm a third-year CS student @ UofT, eager to learn and grow in the world of programming . This GitHub profile is  where I share my projects.
 </h2>
 <br>
 <br>
