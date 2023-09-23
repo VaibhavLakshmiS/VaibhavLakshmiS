@@ -1,5 +1,5 @@
 ### 
-<h4> fall is here! </h4>
+<h3> fall is here! </h3>
 <p align="center">
   <img src="./fall winnie.gif" alt="Description of GIF"/>
 </p>
