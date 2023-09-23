@@ -34,7 +34,8 @@ I'm a third-year CS student @ UofT, eager to learn and grow in the world of prog
   <!-- Android Studio -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 </div>
-📫 How to reach me: [Visit My Website](https://vaibhavlakshmis.github.io/VLPersonalPortfolio/)
+<br></br>
+ more about me: https://vaibhavlakshmis.github.io/VLPersonalPortfolio/
 
 
 <!--
