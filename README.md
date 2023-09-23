@@ -1,9 +1,9 @@
 ### 
-
-<p align="center">
-  <img src="./winniee.gif" alt="Description of GIF"/>
-</p>
 <h4> fall is here! </h4>
+<p align="center">
+  <img src="./fall winnie.gif" alt="Description of GIF"/>
+</p>
+
 <h2>Hi there 👋
 I'm a third-year CS student @ UofT, eager to learn and grow in the world of programming . This GitHub profile is  where I share my projects.
 </h2>
