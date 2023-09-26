@@ -33,6 +33,8 @@ I'm a third-year CS student @ UofT, eager to learn and grow in the world of prog
   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="GIMP" alt="GIMP" width="40" height="40"/>&nbsp;
   <!-- Android Studio -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <!-- Blender -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/pblender-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 <br></br>
  more about me: https://vaibhavlakshmis.github.io/VLPersonalPortfolio/
