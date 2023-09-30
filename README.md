@@ -1,11 +1,11 @@
 ### 
-<h3> fall is here! </h3>
+<h3>🍂 Fall is Here! 🍂</h3>
 <p align="center">
-  <img src="./fall winnie.gif" alt="Description of GIF"/>
+  <img src="./fall winnie.gif" alt="Animated GIF of fall scene"/>
 </p>
 
 <h2>Hi there 👋
-I'm a third-year CS student @ UofT, eager to learn and grow in the world of programming . This GitHub profile is  where I share my projects.
+  I'm a third-year CS student @ UofT, eager to delve deeper into the world of programming. This GitHub showcases a collection of my projects.
 </h2>
 <br>
 <br>
