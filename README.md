@@ -1,14 +1,15 @@
 ### 
+<h2>Welcome to My GitHub</h2>
+
 <h3>🍂 Fall is Here! 🍂</h3>
 <p align="center">
   <img src="./fall winnie.gif" alt="Animated GIF of fall scene"/>
 </p>
-
-<h2>Hi there 👋
+<p>
+  Hi there 👋<br>
   I'm a third-year CS student @ UofT, eager to delve deeper into the world of programming. This GitHub showcases a collection of my projects.
-</h2>
-<br>
-<br>
+</p>
+
 :hammer_and_wrench: Languages and Tools
 <div align="center">
   <!-- Python -->
