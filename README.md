@@ -1,14 +1,14 @@
 ### 
-<h2>Welcome to My GitHub</h2>
+# Hello, I am Vaibhav Lakshmi! 👋
 
-<h3>🍂 Fall is Here! 🍂</h3>
-<p align="center">
-  <img src="./fall winnie.gif" alt="Animated GIF of fall scene"/>
-</p>
-<p>
-  Hi there 👋<br>
-  I'm a third-year CS student @ UofT, eager to delve deeper into the world of programming. This GitHub showcases a collection of my projects.
-</p>
+## 🎓 About Me
+I'm a third-year Computer Science student @ Uoft passionate about software development and technology innovation. Currently, I'm honing my skills in Python and automation scripts for testing.
+
+## 💼 Aspiring Software Engineer
+As I gear up for a career in software engineering, I'm eager to apply my skills in real-world scenarios.
+
+## 🤝 Let's Connect
+- **LinkedIn**: [https://www.linkedin.com/in/VaibhavLakshmi](linkedin.com/in/vaibhav-lakshmi-santhanam-660401221)
 
 :hammer_and_wrench: Languages and Tools
 <div align="center">
