@@ -5,7 +5,7 @@
 I'm a third-year Computer Science student @ Uoft passionate about software development and technology innovation. Currently, I'm working automation scripts for testing using Python.
 
 ## 💼 Aspiring Software Engineer
-As I gear up for a career in software engineering, I'm eager to apply my skills in real-world scenarios.
+As a budding software engineer, I'm keen to translate my skills and knowledge into tangible contributions in the tech industry.
 
 ## 🤝 Let's Connect
 - **LinkedIn**: [linkedin.com/in/vaibhav-lakshmi-santhanam-660401221](https://www.linkedin.com/in/vaibhav-lakshmi-santhanam-660401221)
