@@ -8,7 +8,7 @@ I'm a third-year Computer Science student @ Uoft passionate about software devel
 As I gear up for a career in software engineering, I'm eager to apply my skills in real-world scenarios.
 
 ## 🤝 Let's Connect
-- **LinkedIn**: [https://www.linkedin.com/in/VaibhavLakshmi](linkedin.com/in/vaibhav-lakshmi-santhanam-660401221)
+- **LinkedIn**: [linkedin.com/in/vaibhav-lakshmi-santhanam-660401221](https://www.linkedin.com/in/vaibhav-lakshmi-santhanam-660401221)
 
 :hammer_and_wrench: Languages and Tools
 <div align="center">
