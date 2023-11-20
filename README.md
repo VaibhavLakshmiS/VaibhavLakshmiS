@@ -2,7 +2,7 @@
 # Hello, I am Vaibhav Lakshmi! 👋
 
 ## 🎓 About Me
-I'm a third-year Computer Science student @ Uoft passionate about software development and technology innovation. Currently, I'm working automation scripts for testing using Python.
+I'm a third-year Computer Science student @ Uoft passionate about software development and technology innovation. Currently, I'm working on automation scripts for testing using Python.
 
 ## 💼 Aspiring Software Engineer
 As a budding software engineer, I'm keen to translate my skills and knowledge into tangible contributions in the tech industry.
