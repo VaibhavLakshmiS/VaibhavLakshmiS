@@ -1,7 +1,7 @@
 ### 
 # Hello, I am Vaibhav Lakshmi! 👋
 
-** I'm a third-year Computer Science student at UofT.**
+ I'm a third-year Computer Science student at UofT.
 
 🚀 **Current Role:** Intern at SOTI, focusing on software development and automation testing, gaining valuable industry experience.
 
