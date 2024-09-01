@@ -1,9 +1,5 @@
 ### 
 # Hello, I am Vaibhav Lakshmi! 👋
-<table>
-  <tr>
-<img src="ascii.png" width="300"/>
-<td valign="top">
  I'm a third-year Computer Science student at UofT.
 
 🛠️ **Technical Skills:** Proficient in Python, C, Java, MySQL, JavaScript, CSS, HTML. Tools: VSCode, IntelliJ IDEA, GIMP, Android Studio.
