@@ -3,10 +3,7 @@
 
  I'm a third-year Computer Science student at UofT.
 
-
-🔍 **Exploring Tech:** Engaged in a fintech side project, applying my skills to innovative solutions in finance and technology. Passionate about diverse aspects of tech, from software development to data analysis.
-
-🛠️ **Technical Skills:** Proficient in Python, C, Java, MySQL, JavaScript, CSS, HTML. Tools: VSCode, IntelliJ IDEA, GIMP, Android Studio.
+🛠️ **Technical Skills:** Proficient in Python, C, Java, MySQL, JavaScript, CSS, HTML. Tools: VSCode, IntelliJ IDEA, GIMP, Android Studio , React, Mongodb,postman.
 
 💡 **Career Vision:** Keen on exploring various roles within the tech sector, aiming to contribute creatively and effectively in different technology realms.
 
