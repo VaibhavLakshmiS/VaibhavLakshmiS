@@ -3,7 +3,6 @@
 
  I'm a third-year Computer Science student at UofT.
 
-🚀 **Current Role:** Intern at SOTI, focusing on software development and automation testing, gaining valuable industry experience.
 
 🔍 **Exploring Tech:** Engaged in a fintech side project, applying my skills to innovative solutions in finance and technology. Passionate about diverse aspects of tech, from software development to data analysis.
 
