@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="alberteinstein1.png" alt="Motivational Quote" width="600"/>
+  <img src="alberteinstein1.jpg" alt="Motivational Quote" width="600"/>
 </p>
 
 
