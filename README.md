@@ -1,45 +1,59 @@
 ### 
 # Hello, I am Vaibhav Lakshmi! 👋
 
- I'm a third-year Computer Science student at UofT.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=F7931E&center=true&vCenter=true&width=500&lines=CS+%40+UofT;Aspiring+ML+Engineer;Blending+Creativity+and+Code" alt="Typing SVG" />
+</p>
 
-🛠️ **Technical Skills:** Proficient in Python, C, Java, MySQL, JavaScript, CSS, HTML. Tools: VSCode, IntelliJ IDEA, GIMP, Android Studio , React, Mongodb,postman.
+<p align="center">
+  <img src="alberteinstein1.png" alt="Motivational Quote" width="600"/>
+</p>
 
-💡 **Career Vision:** Keen on exploring various roles within the tech sector, aiming to contribute creatively and effectively in different technology realms.
 
-🤝 **Let's Connect!** Eager to collaborate and exchange ideas with like-minded tech enthusiasts and professionals.
 
-- **LinkedIn**: [linkedin.com/in/vaibhav-lakshmi-santhanam-660401221](https://www.linkedin.com/in/vaibhav-lakshmi-santhanam-660401221)
+---
 
-:hammer_and_wrench: Languages and Tools
-<div align="center">
-  <!-- Python -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <!-- C -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <!-- Java -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <!-- MySQL -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <!-- JavaScript -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <!-- CSS -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <!-- HTML -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <!-- VSCode -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <!-- IntelliJ -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
-  <!-- GIMP -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="GIMP" alt="GIMP" width="40" height="40"/>&nbsp;
-  <!-- Android Studio -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <!-- Blender -->
-  
-</div>
-<br></br>
- more about me: https://vaibhavlakshmis.github.io/VLPersonalPortfolio/
+🎓 I'm a fourth-year Computer Science student at the University of Toronto  
+🔬 I build systems that see, think, and interact — blending ML, computer vision, and full-stack development  
+💡 Passionate about turning creative ideas into intelligent, visual tools
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-F7931E?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-F7931E?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-F7931E?style=flat&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7931E?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-F7931E?style=flat&logo=react&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-F7931E?style=flat&logo=mongodb&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-F7931E?style=flat&logo=opencv&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-F7931E?style=flat&logo=firebase&logoColor=white)
+
+---
+
+### 🧰 Tools
+
+![VSCode](https://img.shields.io/badge/-VSCode-F7931E?style=flat&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-F7931E?style=flat&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-F7931E?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-F7931E?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F7931E?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F7931E?style=flat&logo=figma&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-F7931E?style=flat&logo=streamlit&logoColor=white)
+![GIMP](https://img.shields.io/badge/-GIMP-F7931E?style=flat&logo=gimp&logoColor=white)
+
+---
+
+### 🧠 Areas I've Explored
+
+- Operating Systems · Machine Learning · Computer Vision  
+- Human-Computer Interaction · Web & Mobile App Dev  
+- Agile Software Engineering · Model Deployment
+
+---
+[LinkedIn ↗](https://linkedin.com/in/vaibhav-lakshmi-santhanam-660401221)  
+Always happy to connect with engineers, builders, and curious minds!
 
 
 <!--
