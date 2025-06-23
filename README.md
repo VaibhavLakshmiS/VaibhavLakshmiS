@@ -47,7 +47,7 @@
 
 ### 🧠 Areas I've Explored
 
-- Operating Systems · Machine Learning · Computer Vision  
+- Machine Learning · Computer Vision  
 - Human-Computer Interaction · Web & Mobile App Dev  
 - Agile Software Engineering · Model Deployment
 
