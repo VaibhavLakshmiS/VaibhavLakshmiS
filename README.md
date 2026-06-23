@@ -2,7 +2,7 @@
 # Hello, I am Vaibhav Lakshmi! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=F7931E&center=true&vCenter=true&width=500&lines=CS+%40+UofT;Aspiring+ML+Engineer;Blending+Creativity+and+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=F7931E&center=true&vCenter=true&width=500&lines=CS+%40+UofT;Blending+Creativity+and+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,9 +13,15 @@
 
 ---
 
-🎓 I'm a fourth-year Computer Science student at the University of Toronto  
-🔬 I build systems that see, think, and interact — blending ML, computer vision, and full-stack development  
-💡 Passionate about turning creative ideas into intelligent, visual tools
+I grew up wanting to make Pixar films. Now I build software systems instead.
+- Different medium, same mindset: create things that are thoughtful, reliable, and built with care.
+- I am a University of Toronto Computer Science graduate with minors in Economics and Statistics. My experience spans Python engineering, backend workflows, automation, testing infrastructure, data tooling, dashboards, and team-based software development. 
+- I like building systems that take messy real-world information and turn it into something structured, useful, and reliable.
+- My direction is simple: keep building, keep improving, and become the best kind of software engineer who can design, ship, and own meaningful systems. 
+ 
+ ### Mission 
+ To infinity and beyond.
+- Build excellent software across backend systems, data engineering, and applied AI — with the goal of becoming a stronger engineer every day.
 
 ---
 
@@ -42,14 +48,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F7931E?style=flat&logo=figma&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-F7931E?style=flat&logo=streamlit&logoColor=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-F7931E?style=flat&logo=gimp&logoColor=white)
-
----
-
-### 🧠 Areas I've Explored
-
-- Machine Learning · Computer Vision  
-- Human-Computer Interaction · Web & Mobile App Dev  
-- Agile Software Engineering · Model Deployment
 
 ---
 [LinkedIn ↗](https://linkedin.com/in/vaibhav-lakshmi-santhanam-660401221)  
