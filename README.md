@@ -14,15 +14,13 @@
 ---
 
 I grew up wanting to make Pixar films. Now I build software systems instead.
-- Different medium, same mindset: create things that are thoughtful, reliable, and built with care.
-- I am a University of Toronto Computer Science graduate with minors in Economics and Statistics. My experience spans Python engineering, backend workflows, automation, testing infrastructure, data tooling, dashboards, and team-based software development. 
-- I like building systems that take messy real-world information and turn it into something structured, useful, and reliable.
-- My direction is simple: keep building, keep improving, and become the best kind of software engineer who can design, ship, and own meaningful systems. 
+- Different medium, same mindset: create things that are thoughtful, memorable, reliable, and built with care.
+- I am a University of Toronto Computer Science graduate with minors in Economics and Statistics. I am interested in the intersection of these subjects.
+- My focus is simple: keep building, keep improving, and become the best kind of software engineer who can design, ship, and own meaningful systems. 
  
  ### Mission 
  To infinity and beyond.
-- Build excellent software across backend systems, data engineering, and applied AI — with the goal of becoming a stronger engineer every day.
-
+ - Dream big achieve big and enjoy the process!
 ---
 
 ### 🛠️ Tech Stack
