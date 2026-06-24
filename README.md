@@ -20,7 +20,7 @@ I grew up wanting to make Pixar films. Now I build software systems instead.
  
  ### Mission 
  To infinity and beyond.
- - Dream big achieve big and enjoy the process!
+ - Here to dream big achieve big and enjoy the process!
 ---
 
 ### 🛠️ Tech Stack
